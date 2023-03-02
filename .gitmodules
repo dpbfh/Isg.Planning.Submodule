@@ -1,0 +1,3 @@
+[submodule "Isg.Planning"]
+	path = Isg.Planning
+	url = https://github.com/dpbfh/Isg.Planning.git
